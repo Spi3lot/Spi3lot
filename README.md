@@ -5,7 +5,7 @@
 ## Hi there 👋
 
 - 🌱 I’m currently learning more about control theory, especially PID controllers. I'm also really interested in OSINT, particularly [OpenStreetMap](https://wiki.openstreetmap.org/) in combination with [overpass turbo](https://overpass-turbo.eu/).
-- 🔭 I’m currently working on [Vectorscope V4](https://github.com/Spi3lot/vectorscope4) and [Sharpmine](https://github.com/Spi3lot/Sharpmine).
+- 🔭 I’m currently working on [Sharpmine](https://github.com/Spi3lot/Sharpmine).
 - 🤔 I’m looking for help with [Sharpmine](https://github.com/Spi3lot/Sharpmine).
 - 💬 Ask me about anything, but questions regarding `C#` will probably receive the best answers.
 - 📫 How to reach me: GitHub discussions, spi3lot@gmail.com or any other contact method you may find.
