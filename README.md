@@ -11,7 +11,7 @@
 - 📫 How to reach me: GitHub discussions, spi3lot@gmail.com or any other contact method you may find.
 - ⚡ Fun fact: I like bouldering, urbexing and FPV drones.
 
-<h3 align="left">Connect with me:</h3>
+### Connect with me:
 
 <table>
   <tr>
@@ -27,7 +27,7 @@
   </tr>
 </table>
 
-<h3 align="left">Languages, Frameworks and Tools:</h3>
+### Languages, Frameworks and Tools:
 
 <table>
   <tr>
@@ -136,8 +136,10 @@
   </tr>
 </table>
 
-<br>
+## 📊 GitHub Statistics
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=spi3lot&" alt="spi3lot" />
-</p>
+[![Top Languages](https://github-readme-streak-stats.herokuapp.com/?user=spi3lot)](https://github.com/Spi3lot)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Spi3lot&show_icons=true&theme=radical)](https://github.com/Spi3lot)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Spi3lot&layout=compact&theme=radical)](https://github.com/Spi3lot)
